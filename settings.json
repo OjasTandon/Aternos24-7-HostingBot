@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "afk-bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ElderMarch99.aternos.me",
-    "port": 60514,
-    "version": "1.20.1",
+    "ip": "Goat_Network.aternos.me",
+    "port": 12163,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
